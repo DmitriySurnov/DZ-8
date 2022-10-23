@@ -1,0 +1,15 @@
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\bin\Debug\klava.exe.config
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\bin\Debug\klava.exe
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\bin\Debug\klava.pdb
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\Zadanie_1.csprojAssemblyReference.cache
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\MainWindow.g.cs
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\App.g.cs
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava_MarkupCompile.cache
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava_MarkupCompile.lref
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\MainWindow.baml
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava.g.resources
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava.Properties.Resources.resources
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\Zadanie_1.csproj.GenerateResource.cache
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\Zadanie_1.csproj.CoreCompileInputs.cache
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava.exe
+D:\С# form\git_dz-1\DZ-8\Zadanie_1\obj\Debug\klava.pdb

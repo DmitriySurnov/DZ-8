@@ -1,0 +1,15 @@
+D:\С# form\Клавиатура\версия 1\klava\klava\bin\Debug\klava.exe.config
+D:\С# form\Клавиатура\версия 1\klava\klava\bin\Debug\klava.exe
+D:\С# form\Клавиатура\версия 1\klava\klava\bin\Debug\klava.pdb
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.csprojAssemblyReference.cache
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\MainWindow.g.cs
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\App.g.cs
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava_MarkupCompile.cache
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava_MarkupCompile.lref
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\MainWindow.baml
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.g.resources
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.Properties.Resources.resources
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.csproj.GenerateResource.cache
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.csproj.CoreCompileInputs.cache
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.exe
+D:\С# form\Клавиатура\версия 1\klava\klava\obj\Debug\klava.pdb
